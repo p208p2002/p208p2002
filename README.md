@@ -3,9 +3,9 @@
 
 - 🏠 My homepage [https://p208p2002.github.io](https://p208p2002.github.io)
 
-- 💬 Ask me about **NLP, ReactJS**
-
 - 📫 How to reach me **p208p2002@gmail.com**
+
+- 💬 Ask me about **NLP, ReactJS**
 
 - 🕹 My interests **Photography, Coffee**
 
