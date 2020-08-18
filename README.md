@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Philip Huang</h1>
-<h3 align="center">A Full Stack developer and NLP researcher from Taiwan.</h3>
+# Hello there 👋
+I'm a Full Stack developer and NLP researcher from Taiwan.
 
 - 🏠 My homepage [https://p208p2002.github.io](https://p208p2002.github.io)
 - 📫 How to reach me **p208p2002@gmail.com**
