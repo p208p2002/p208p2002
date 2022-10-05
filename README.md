@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Philip Huang 😉</h1>
+<h1 align="center">Hi there, I am Philip 😉</h1>
 
 <p align="center">
   <a href="http://philip-huang.tech" target="_blank">
