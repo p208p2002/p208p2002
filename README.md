@@ -29,3 +29,15 @@
   <br/>
   </p> 
  
+ <h4 align="center">Fun Toys</h4>
+ <p align="center">
+ <a href="http://philip-huang.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🖼-Question%20Answer%20Visualize-FFA200?style=for-the-badge"/>
+  </a>
+  <br/>
+  <a href="http://blog.philip-huang.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/📚-Question%20Group%20Generator-4298B8?style=for-the-badge"/>
+  </a>
+  
+  </a>
+ </p>
