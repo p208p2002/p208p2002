@@ -15,18 +15,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%A4%97-huggingface-yellow?style=for-the-badge"/>
   </a>
  </p>
-<!--
-<h4 align="center">Skills</h4>
--->
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=pytorchlightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+ 
 <!--
 <h4 align="center">Fun Toys</h4>
 -->
@@ -43,5 +32,15 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=p208p2002&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=1F4056" alt="Philip's Github Stats" />
   <br/>
-</p> 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=pytorchlightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+</p>
  
