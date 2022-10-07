@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Philip 😉</h1>
 <!--
 <h4 align="center">Links</h4>
 -->
