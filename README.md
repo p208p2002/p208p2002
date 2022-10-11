@@ -19,12 +19,12 @@
 <h4 align="center">Fun Toys</h4>
 -->
 <p align="center">
-<a href="https://huggingface.co/spaces/p208p2002/Transformer-QA-Decode-Visualize" target="_blank">
+  <a href="https://huggingface.co/spaces/p208p2002/Transformer-QA-Decode-Visualize" target="_blank">
     <img src="https://img.shields.io/badge/🖼-Question%20Answer%20Visualize-FFA200?style=flat-square"/>
   </a>
 
   <a href="https://huggingface.co/spaces/p208p2002/Question-Group-Generator" target="_blank">
-  <img src="https://img.shields.io/badge/📚-Question%20Group%20Generator-4298B8?style=flat-square"/>
+    <img src="https://img.shields.io/badge/📚-Question%20Group%20Generator-4298B8?style=flat-square"/>
   </a>
 </p>
 
