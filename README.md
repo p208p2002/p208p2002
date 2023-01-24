@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=p208p2002&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=1F4056" alt="Philip's Github Stats" />
+   <img align="center" src="https://github-readme-stats-p208p2002.vercel.app/api?username=p208p2002&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=1F4056" alt="Philip's Github Stats" />
   <br/>
 </p>
 
