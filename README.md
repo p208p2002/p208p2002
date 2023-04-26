@@ -29,10 +29,8 @@
 </p>
 
 <p align="center">
-<!--    <img align="center" src="https://github-readme-stats-p208p2002.vercel.app/api?username=p208p2002&show_icons=true&count_private=false&include_all_commits=false&line_height=21&title_color=1F4056" alt="Philip's Github Stats" /> -->
-     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=p208p2002" alt="Philip's Github Stats" />
-  
-  <br/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=p208p2002" alt="Philip's Github Stats" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p208p2002&exclude=shell,Jupyter%20Notebook,html,PHP,R,c" alt="Philip's Github Stats" />
 </p>
 
 <p align="center">
@@ -44,4 +42,6 @@
   <img src="https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=pytorchlightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 </p>
+
+
  
