@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=pytorchlightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=lightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
