@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=lightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
 
