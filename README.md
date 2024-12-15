@@ -2,9 +2,9 @@
 <h4 align="center">Links</h4>
 -->
 <p align="center">
-  <a href="http://philip-huang.tech" target="_blank">
+<!--   <a href="http://philip-huang.tech" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8F%A0-homepage-5A6AB1?style=for-the-badge"/>
-  </a>
+  </a> -->
   
   <a href="http://blog.philip-huang.tech/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%93%92-blog-67A4AC?style=for-the-badge"/>
